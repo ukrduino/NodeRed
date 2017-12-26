@@ -1,0 +1,11 @@
+{
+  "name": "node-red-project",
+  "description": "A Node-RED Project",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-red-contrib-bigtimer": "~1.8.0",
+    "node-red-contrib-stoptimer": "0.0.7",
+    "node-red-dashboard": "~2.6.2",
+    "node-red-node-sqlite": "~0.1.2"
+  }
+}
