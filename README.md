@@ -1,2 +1,2 @@
 # NodeRed
-Node Red automationflows
+Node-Red home automation project flows
