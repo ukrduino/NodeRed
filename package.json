@@ -5,7 +5,7 @@
   "dependencies": {
     "node-red-contrib-bigtimer": "~1.8.0",
     "node-red-contrib-stoptimer": "0.0.7",
-    "node-red-dashboard": "~2.6.2",
+    "node-red-dashboard": "~2.22.1",
     "node-red-node-sqlite": "~0.1.2"
   }
 }
